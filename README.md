@@ -95,7 +95,7 @@ These changes made the application easier to understand, maintain, debug, and ex
 
 ### [Download Enhanced Artifact](Samari_Robinson_Camacho_CS499_Milestone_Two_Enhanced_Artifact%20%281%29.zip)
 
-### [Read Enhancement One Narrative](Samari_Robinson_Camacho_CS499_Milestone_Two_Narrative%281%29.docx)
+### [Read Enhancement One Narrative](Samari_Robinson_Camacho_CS499_Milestone_Two_Narrative.docx)
 
 ---
 
@@ -185,7 +185,7 @@ These enhancements improve database security, data integrity, query efficiency, 
 
 ### [Download Enhanced Artifact](Samari_Robinson_Camacho_CS499_Milestone_Four_Database_Enhancement%20%281%29.zip)
 
-### [Read Enhancement Three Narrative](Samari_Robinson_Camacho_CS499_Milestone_Four_Narrative%281%29.docx)
+### [Read Enhancement Three Narrative](Samari_Robinson_Camacho_CS499_Milestone_Four_Narrative.docx)
 
 ---
 
@@ -254,7 +254,3 @@ I now look beyond whether an application simply works. I also consider whether t
 This ePortfolio represents the technical foundation I have developed and the skills I plan to continue strengthening throughout my professional career.
 
 ---
-
-
-
-ensure that it accurately represents my coursework, projects, skills, experiences, and understanding of the concepts discussed.
