@@ -254,4 +254,4 @@ I now look beyond whether an application simply works. I also consider whether t
 This ePortfolio represents the technical foundation I have developed and the skills I plan to continue strengthening throughout my professional career.
 
 ---
-grammar and clarity, and structure portions of my ePortfolio content. I reviewed and revised the material to ensure that it accurately represents my coursework, projects, skills, experiences, and understanding of the concepts discussed.
+ensure that it accurately represents my coursework, projects, skills, experiences, and understanding of the concepts discussed.
