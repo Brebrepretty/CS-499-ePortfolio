@@ -25,9 +25,21 @@ My professional self-assessment introduces my computer science background, skill
 
 ## Code Review
 
-Before completing my enhancements, I conducted a code review of the original Animal Shelter Dashboard. The review examined the application's existing functionality, identified areas for improvement, and explained my planned enhancements.
+As part of my CS 499 Computer Science Capstone, I completed a code review of my original **CS 340 Animal Shelter Dashboard** before implementing the final enhancements.
 
-**Code Review Video:** Link will be added here
+The Animal Shelter Dashboard is a Python Dash application connected to a MongoDB database. During the code review, I examined the application's existing functionality, reviewed the code's structure and quality, identified areas for improvement, and discussed the enhancements I planned to implement.
+
+The code review focuses on improvements across the three major categories of my CS 499 ePortfolio:
+
+- **Software Design and Engineering** – Improving code organization, maintainability, validation, exception handling, documentation, and overall software quality.
+- **Algorithms and Data Structures** – Improving filtering and data-processing logic, reducing repeated operations, and creating more reusable and efficient solutions.
+- **Databases** – Improving MongoDB functionality through stronger validation, indexing, query improvements, safer CRUD operations, database security, and better data management.
+
+Completing the code review allowed me to evaluate an application I had previously developed and identify how I could apply the knowledge and skills I gained throughout the Computer Science program to create a more professional, secure, efficient, and maintainable solution.
+
+### Code Review Video
+
+**[Watch My CS 499 Capstone Code Review – Animal Shelter Dashboard](https://www.youtube.com/watch?v=KAt81z0MoFA)**
 
 ---
 
