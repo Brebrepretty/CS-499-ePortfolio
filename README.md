@@ -95,7 +95,7 @@ These changes made the application easier to understand, maintain, debug, and ex
 
 ### [Download Enhanced Artifact](Samari_Robinson_Camacho_CS499_Milestone_Two_Enhanced_Artifact%20%281%29.zip)
 
-### [Read Enhancement One Narrative](Samari_Robinson_Camacho_CS499_Milestone_Two_Narrative.docx)
+### [Read Enhancement One Narrative](software-design-narrative.md)
 
 ---
 
@@ -135,7 +135,7 @@ These improvements demonstrate that algorithm design involves more than producin
 
 ### [Download Enhanced Artifact](Samari_Robinson_Camacho_CS499_Milestone_Three_Enhanced_Artifact%20%281%29.zip)
 
-### [Read Enhancement Two Narrative](CS499_Milestone_Three_Algorithms_Narrative_Samari_Robinson_Camacho%20%281%29.docx)
+### [Read Enhancement Two Narrative](algorithms-data-structures-narrative.md)
 
 ---
 
@@ -185,7 +185,7 @@ These enhancements improve database security, data integrity, query efficiency, 
 
 ### [Download Enhanced Artifact](Samari_Robinson_Camacho_CS499_Milestone_Four_Database_Enhancement%20%281%29.zip)
 
-### [Read Enhancement Three Narrative](Samari_Robinson_Camacho_CS499_Milestone_Four_Narrative.docx)
+### [Read Enhancement Three Narrative](database-narrative.md)
 
 ---
 
